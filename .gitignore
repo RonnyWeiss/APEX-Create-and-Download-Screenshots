@@ -1,0 +1,5 @@
+node_modules/*
+package-lock.json
+apexnitro.cred.json
+apexnitro.config.json
+gulpfile.js
