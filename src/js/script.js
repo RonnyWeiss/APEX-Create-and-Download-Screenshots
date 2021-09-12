@@ -54,7 +54,7 @@ function apexCreateScreenshotPlugin(pSelf, pFileName) {
         // WORKAROUND: html2canvas starts to fast so loader is not rendered with short wait
         setTimeout(function () {
             $.each($(pSelf.affectedElements), function (i, item) {
-                html2canvas($(item)[0], {
+                html2canvas132($(item)[0], {
                     "logging": (apex.debug.getLevel() >= 4)
                 })
                     .then(canvas => {

@@ -6,7 +6,7 @@
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
     typeof define === 'function' && define.amd ? define(factory) :
-    (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.html2canvas = factory());
+    (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.html2canvas132 = factory());
 }(this, (function () { 'use strict';
 
     /*! *****************************************************************************
