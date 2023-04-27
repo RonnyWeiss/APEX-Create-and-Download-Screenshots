@@ -6,7 +6,7 @@ This plug-in is used to create and download screenshots from a page elements usi
 
 For working Demo just click on:
 
-https://APEX.oracle.com/pls/APEX/f?p=103428
+https://apex.oracle.com/pls/apex/f?p=103428
 
 If you like my stuff, donate me a coffee
 
